@@ -67,7 +67,6 @@ list_labels_10 = []
 
 for row in csv_labels_3:
     list_labels_3 =  list_labels_3+[int(row[0])]
-## don't think this next line is even needed.#
 ##list_of_labels_2 = [list_labels_1, list_labels_2,list_labels_3,list_labels_4,list_labels_5,list_labels_6,list_labels_7,list_labels_8,list_labels_9,list_labels_10]
 
 list_of_labels= []
